@@ -1,1 +1,1 @@
-Rock Paper Scissors game. <a href="https://astroflexx.github.io/Rock-Paper-Scissors-Game/"> Check it out here! </a>
+Rock Paper Scissors game. <a href="https://astroflexx.github.io/rock-paper-scissors/"> Check it out here! </a>
